@@ -1,0 +1,17 @@
+Anurag Jakkula
+patient@gmail.com
+Bendryl
+food
+06:53
+"[1, 2, 3, 4, 5]"
+"Take once a day, with lots of water"
+CVS
+"CVS Pharmacy, 3999 Santa Rita Rd, Pleasanton, CA 94588"
+9254608552
+tyr
+50
+2022-06-02
+John Doe
+physician@gmail.com
+2022-05-20
+manufacturer
